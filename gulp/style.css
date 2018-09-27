@@ -1,0 +1,7 @@
+div {
+   color: blue;
+   font-size: 60px;
+}
+div:hover {
+  color: red;
+}

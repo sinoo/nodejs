@@ -1,0 +1,1 @@
+var requirejs=require("requirejs");requirejs.define("myModule",["lodash"],function(e){return console.log(e.includes([1,2,3],1)),"fff"});
